@@ -8,7 +8,7 @@
 [박준혁님 🐧](https://github.com/Junhyuk93)<br/>
 [최석민님 😎](https://github.com/RockMiin)<br/>
 [서희수님 🐝](https://github.com/Seoheesu1)<br/>
-[hanlyang0522님 😁](https://github.com/hanlyang0522)<br/>
+[박범수님 😁](https://github.com/hanlyang0522)<br/>
 
 
 ## Solutions
