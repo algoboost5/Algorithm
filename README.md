@@ -12,6 +12,9 @@
   - 이진탐색
   - 최단 경로
 
+
+
+
 ## Members
 
 [강수빈님 🐽](https://github.com/suuuuuuuubin)<br/>
@@ -22,12 +25,15 @@
 [박범수님 😁](https://github.com/hanlyang0522)<br/>
 
 ## Problems
-<details open>
-<summary>8월 3주차</summary>
-<div markdown="1">
-  *[1926. 그림](https://www.acmicpc.net/problem/1926)
-  *[1012. 유기농배추](https://www.acmicpc.net/problem/1012)
-</div>
+
+<details>
+<summary> Week1 </summary>
+<p>
+
+* [1926. 그림](https://www.acmicpc.net/problem/1926)
+* [1012. 유기농배추](https://www.acmicpc.net/problem/1012)
+
+</p>
 </details>
 
 
@@ -45,10 +51,7 @@
 |[10773. 제로](https://www.acmicpc.net/problem/10773)|[Python🐝](https://github.com/algoboost5/Algorithm/blob/master/%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB/%5Bweek01%5D10773_%EC%84%9C%ED%9D%AC%EC%88%98.py), [C++😋](./구현/[Week01]10773_고재욱.cpp)|
 |[2685. 님비합](https://www.acmicpc.net/problem/2685)|[Python🐝](https://github.com/algoboost5/Algorithm/blob/master/%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB/%5Bweek01%5D2685_%EC%84%9C%ED%9D%AC%EC%88%98.py)|
 
-
-
-
 </div>
 </details>
 
-<br/>
+
