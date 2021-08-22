@@ -45,11 +45,12 @@
 
 |Problem|Solution|
 |------|---|
-|[2504. 괄호의 값](https://www.acmicpc.net/problem/2504)|[Python🐽](https://github.com/algoboost5/Algorithm/blob/master/%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB/%5BWeek01%5D2504_%EA%B0%95%EC%88%98%EB%B9%88.py), [C++😋](https://github.com/algoboost5/Algorithm/blob/master/%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB/%5BWeek01%5D2504_%EA%B3%A0%EC%9E%AC%EC%9A%B1.cpp)|
-|[5397. 키로커](https://www.acmicpc.net/problem/5397)|[Python🐧](https://github.com/algoboost5/Algorithm/blob/master/%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB/%5BWeek01%5D5397_%E1%84%87%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A7%E1%86%A8.py)|
-|[5567. 결혼식](https://www.acmicpc.net/problem/5567)|[Python😎](https://github.com/algoboost5/Algorithm/blob/master/%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB/%5BWeek01%5D5567_%E1%84%8E%E1%85%AC%E1%84%89%E1%85%A5%E1%86%A8%E1%84%86%E1%85%B5%E1%86%AB.py)|
-|[10773. 제로](https://www.acmicpc.net/problem/10773)|[Python🐝](https://github.com/algoboost5/Algorithm/blob/master/%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB/%5Bweek01%5D10773_%EC%84%9C%ED%9D%AC%EC%88%98.py), [C++😋](./구현/[Week01]10773_고재욱.cpp)|
-|[2685. 님비합](https://www.acmicpc.net/problem/2685)|[Python🐝](https://github.com/algoboost5/Algorithm/blob/master/%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB/%5Bweek01%5D2685_%EC%84%9C%ED%9D%AC%EC%88%98.py)|
+|[2504. 괄호의 값](https://www.acmicpc.net/problem/2504)|[강수빈님](https://github.com/algoboost5/Algorithm/blob/master/%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB/%5BWeek01%5D2504_%EA%B0%95%EC%88%98%EB%B9%88.py), [고재욱님](https://github.com/algoboost5/Algorithm/blob/master/%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB/%5BWeek01%5D2504_%EA%B3%A0%EC%9E%AC%EC%9A%B1.cpp)|
+|[5397. 키로커](https://www.acmicpc.net/problem/5397)|[박준혁님](https://github.com/algoboost5/Algorithm/blob/master/%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB/%5BWeek01%5D5397_%E1%84%87%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A7%E1%86%A8.py)|
+|[5567. 결혼식](https://www.acmicpc.net/problem/5567)|[최석민님](https://github.com/algoboost5/Algorithm/blob/master/%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB/%5BWeek01%5D5567_%E1%84%8E%E1%85%AC%E1%84%89%E1%85%A5%E1%86%A8%E1%84%86%E1%85%B5%E1%86%AB.py)|
+|[10773. 제로](https://www.acmicpc.net/problem/10773)|[서희수님](https://github.com/algoboost5/Algorithm/blob/master/%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB/%5Bweek01%5D10773_%EC%84%9C%ED%9D%AC%EC%88%98.py), [고재욱님](./구현/[Week01]10773_고재욱.cpp)|
+|[2685. 님비합](https://www.acmicpc.net/problem/2685)|[서희수님](https://github.com/algoboost5/Algorithm/blob/master/%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB/%5Bweek01%5D2685_%EC%84%9C%ED%9D%AC%EC%88%98.py)|
+|1012. 유기농 배추](https://www.acmicpc.net/problem/1012)|[고재욱님](https://github.com/algoboost5/Algorithm/blob/master/DFS%20%26%20BFS/1012_%EC%9C%A0%EA%B8%B0%EB%86%8D_%EB%B0%B0%EC%B6%94_%EA%B3%A0%EC%9E%AC%EC%9A%B1.cpp)|
 
 </div>
 </details>
