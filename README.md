@@ -51,6 +51,7 @@
 |[10773. 제로](https://www.acmicpc.net/problem/10773)|[서희수님](https://github.com/algoboost5/Algorithm/blob/master/%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB/%5Bweek01%5D10773_%EC%84%9C%ED%9D%AC%EC%88%98.py), [고재욱님](./구현/[Week01]10773_고재욱.cpp)|
 |[2685. 님비합](https://www.acmicpc.net/problem/2685)|[서희수님](https://github.com/algoboost5/Algorithm/blob/master/%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB/%5Bweek01%5D2685_%EC%84%9C%ED%9D%AC%EC%88%98.py)|
 |[1012. 유기농 배추](https://www.acmicpc.net/problem/1012)|[최석민님](https://github.com/algoboost5/Algorithm/blob/master/DFS%20%26%20BFS/%5BWeek02%5D1012_%EC%B5%9C%EC%84%9D%EB%AF%BC.py#L6), [고재욱님](https://github.com/algoboost5/Algorithm/blob/master/DFS%20%26%20BFS/1012_%EC%9C%A0%EA%B8%B0%EB%86%8D_%EB%B0%B0%EC%B6%94_%EA%B3%A0%EC%9E%AC%EC%9A%B1.cpp)|
+|[1926. 그림](https://www.acmicpc.net/problem/1926)|[고재욱님](https://github.com/algoboost5/Algorithm/blob/master/DFS%20%26%20BFS/1926_%EA%B7%B8%EB%A6%BC_%EA%B3%A0%EC%9E%AC%EC%9A%B1.cpp)|
 
 </div>
 </details>
