@@ -1,5 +1,16 @@
-**Algorithm**
+**Algoboost5**
 ===========
+- 매주 화요일 수업 종료 후 스터디
+- 푼 문제 리뷰
+- 프로그래머스 Weekly Challenge 문제 풀기
+- 다음 주 풀 문제 2개 정하기 (백준, 코딜리티 중에서)
+  - 구현
+  - DFS / BFS
+  - 그리디
+  - 정렬
+  - 다이나믹 프로그래밍
+  - 이진탐색
+  - 최단 경로
 
 ## Members
 
@@ -9,6 +20,15 @@
 [최석민님 😎](https://github.com/RockMiin)<br/>
 [서희수님 🐝](https://github.com/Seoheesu1)<br/>
 [박범수님 😁](https://github.com/hanlyang0522)<br/>
+
+## Problems
+<details open>
+<summary>8월 3주차</summary>
+<div markdown="1">
+  *[1926. 그림](https://www.acmicpc.net/problem/1926)
+  *[1012. 유기농배추](https://www.acmicpc.net/problem/1012)
+</div>
+</details>
 
 
 ## Solutions
