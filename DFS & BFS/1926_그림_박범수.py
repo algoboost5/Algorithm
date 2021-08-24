@@ -16,8 +16,10 @@ dir_y = [0, 1, 0, -1]
 for i in range(h):
     for j in range(w):
         if matrix[i][j] == 1:
+
             stack.append([i, j])
             matrix[i][j] = 0
+            
             box_n = box_n + 1
             box_s_tmp = 0
 
