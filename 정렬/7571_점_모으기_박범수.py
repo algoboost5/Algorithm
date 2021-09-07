@@ -1,23 +1,20 @@
 import sys
-import statistics
 f = sys.stdin.readline
 
 N, M = map(int, f().split())
 y_list = []
 x_list = []
-y_sum, x_sum = 0, 0
 
 for i in range(M):
     y, x = map(int, f().split())
     y_list.append(y)
     x_list.append(x)
-    y_sum += y
-    x_sum += x
 
-y_mean = round(y_sum / M)
-x_mean = round(x_sum / M)
-
-print(y_mean, x_mean)
+# 평균이 아니라 중간값을 사용해야함
+y_list.sort()
+x_list.sort()
+y_mean = y_list[M//2]
+x_mean = x_list[M//2]
 
 dist = 0
 for y, x in zip(y_list, x_list):
