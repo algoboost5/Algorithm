@@ -5,13 +5,13 @@ using namespace std;
 int w[101], v[101], dp[101][100001];
 
 int main() {
-	int n, k;	// ¹°°Ç °³¼ö, ¹öÆ¿ ¼ö ÀÖ´Â ¹«°Ô
+	int n, k;	// ë¬¼ê±´ ê°œìˆ˜, ë²„í‹¸ ìˆ˜ ìžˆëŠ” ë¬´ê²Œ
 	cin >> n >> k;
 	for (int i = 1; i <= n; i++) {
 		cin >> w[i] >> v[i];
 	}
 
-	// dp[i][j] == i¹øÂ° ¹°°Ç±îÁö ´ã¾ÒÀ»¶§, ´ãÀº ¹«°ÔÀÇ ÇÕÀÌ j ÀÏ¶§ÀÇ °¡Ä¡ ÇÕ
+	// dp[i][j] == ië²ˆì§¸ ë¬¼ê±´ê¹Œì§€ ë‹´ì•˜ì„ë•Œ, ë‹´ì€ ë¬´ê²Œì˜ í•©ì´ j ì¼ë•Œì˜ ê°€ì¹˜ í•©
 	for (int i = 1; i <= n; i++) {
 		for (int j = 1; j <= k; j++) {
 			if (j - w[i] >= 0)
