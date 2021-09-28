@@ -83,6 +83,17 @@ HACK MD LINK : https://hackmd.io/v324C_2pT-6L5k9xkySGNQ
 </p>
 </details>
 
+<details>
+<summary> Week6 </summary>
+<p>
+
+* [최단경로](https://www.acmicpc.net/problem/1753)
+* [트리 순회](https://www.acmicpc.net/problem/1991)
+* [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)
+  
+</p>
+</details>
+
 
 
 
