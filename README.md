@@ -84,7 +84,7 @@ HACK MD LINK : https://hackmd.io/v324C_2pT-6L5k9xkySGNQ
 </details>
 
 <details>
-<summary> Week5 </summary>
+<summary> Week6 </summary>
 <p>
 
 * [최단경로](https://www.acmicpc.net/problem/1753)
