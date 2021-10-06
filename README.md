@@ -94,6 +94,17 @@ HACK MD LINK : https://hackmd.io/v324C_2pT-6L5k9xkySGNQ
 </p>
 </details>
 
+<details>
+<summary> Week7 </summary>
+<p>
+
+* [섬의 개수](https://www.acmicpc.net/problem/4963)
+* [스타트링크](https://www.acmicpc.net/problem/5014)
+* [안전 영역](https://www.acmicpc.net/problem/2468)
+* [불](https://www.acmicpc.net/problem/5427)
+  
+</p>
+</details>
 
 
 
