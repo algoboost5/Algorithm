@@ -107,5 +107,12 @@ HACK MD LINK : https://hackmd.io/v324C_2pT-6L5k9xkySGNQ
 </p>
 </details>
 
-
-
+<details>
+<summary> Week8 </summary>
+<p>
+  
+* [수들의 합 2](https://www.acmicpc.net/problem/2003)
+* [문자 해독](https://www.acmicpc.net/problem/1593)
+  
+</p>
+</details>
