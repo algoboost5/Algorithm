@@ -116,3 +116,13 @@ HACK MD LINK : https://hackmd.io/v324C_2pT-6L5k9xkySGNQ
   
 </p>
 </details>
+
+<details>
+<summary> Week9 </summary>
+<p>
+  
+* [배열 돌리기 1](https://www.acmicpc.net/problem/16926)
+* [톱니바퀴](https://www.acmicpc.net/problem/14891)
+  
+</p>
+</details>
