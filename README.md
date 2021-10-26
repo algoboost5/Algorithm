@@ -98,6 +98,7 @@ HACK MD LINK : https://hackmd.io/v324C_2pT-6L5k9xkySGNQ
 <summary> Week7 </summary>
 <p>
 
+* [연결 요소의 개수](https://www.acmicpc.net/problem/11724)
 * [섬의 개수](https://www.acmicpc.net/problem/4963)
 * [스타트링크](https://www.acmicpc.net/problem/5014)
 * [안전 영역](https://www.acmicpc.net/problem/2468)
@@ -106,5 +107,22 @@ HACK MD LINK : https://hackmd.io/v324C_2pT-6L5k9xkySGNQ
 </p>
 </details>
 
+<details>
+<summary> Week8 </summary>
+<p>
+  
+* [수들의 합 2](https://www.acmicpc.net/problem/2003)
+* [문자 해독](https://www.acmicpc.net/problem/1593)
+  
+</p>
+</details>
 
-
+<details>
+<summary> Week9 </summary>
+<p>
+  
+* [배열 돌리기 1](https://www.acmicpc.net/problem/16926)
+* [톱니바퀴](https://www.acmicpc.net/problem/14891)
+  
+</p>
+</details>
