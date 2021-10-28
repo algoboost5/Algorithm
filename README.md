@@ -123,6 +123,18 @@ HACK MD LINK : https://hackmd.io/v324C_2pT-6L5k9xkySGNQ
   
 * [배열 돌리기 1](https://www.acmicpc.net/problem/16926)
 * [톱니바퀴](https://www.acmicpc.net/problem/14891)
+* [아기상어](https://www.acmicpc.net/problem/16236)
+  
+</p>
+</details>
+
+
+<details>
+<summary> Week10 </summary>
+<p>
+  
+* [암호 만들기](https://www.acmicpc.net/problem/1759)
+* [부분 수열의 합](https://www.acmicpc.net/problem/1182)
   
 </p>
 </details>
