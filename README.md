@@ -1,5 +1,5 @@
-**Algoboost5**
-===========
+# **Algoboost5**
+
 HACK MD LINK : https://hackmd.io/v324C_2pT-6L5k9xkySGNQ
 
 - 매주 화요일 수업 종료 후 스터디
@@ -13,9 +13,6 @@ HACK MD LINK : https://hackmd.io/v324C_2pT-6L5k9xkySGNQ
   - 다이나믹 프로그래밍
   - 이진탐색
   - 최단 경로
-
-
-
 
 ## Members
 
@@ -32,8 +29,8 @@ HACK MD LINK : https://hackmd.io/v324C_2pT-6L5k9xkySGNQ
 <summary> Week1 </summary>
 <p>
 
-* [1926. 그림](https://www.acmicpc.net/problem/1926)
-* [1012. 유기농배추](https://www.acmicpc.net/problem/1012)
+- [1926. 그림](https://www.acmicpc.net/problem/1926)
+- [1012. 유기농배추](https://www.acmicpc.net/problem/1012)
 
 </p>
 </details>
@@ -42,8 +39,8 @@ HACK MD LINK : https://hackmd.io/v324C_2pT-6L5k9xkySGNQ
 <summary> Week2 </summary>
 <p>
 
-* [14241](https://www.acmicpc.net/problem/14241)
-* [20365](https://www.acmicpc.net/problem/20365)
+- [14241](https://www.acmicpc.net/problem/14241)
+- [20365](https://www.acmicpc.net/problem/20365)
 
 </p>
 </details>
@@ -52,8 +49,8 @@ HACK MD LINK : https://hackmd.io/v324C_2pT-6L5k9xkySGNQ
 <summary> Week3 </summary>
 <p>
 
-* [N번째 큰 수](https://www.acmicpc.net/problem/2075)
-* [점 모으기](https://www.acmicpc.net/problem/7571)
+- [N번째 큰 수](https://www.acmicpc.net/problem/2075)
+- [점 모으기](https://www.acmicpc.net/problem/7571)
 
 </p>
 </details>
@@ -62,8 +59,8 @@ HACK MD LINK : https://hackmd.io/v324C_2pT-6L5k9xkySGNQ
 <summary> Week4 </summary>
 <p>
 
-* [기타 레슨](https://www.acmicpc.net/problem/2343)
-* [두 용액](https://www.acmicpc.net/problem/2470)
+- [기타 레슨](https://www.acmicpc.net/problem/2343)
+- [두 용액](https://www.acmicpc.net/problem/2470)
 
 </p>
 </details>
@@ -72,13 +69,13 @@ HACK MD LINK : https://hackmd.io/v324C_2pT-6L5k9xkySGNQ
 <summary> Week5 </summary>
 <p>
 
-* [1로 만들기](https://www.acmicpc.net/problem/1463)
-* [구간 합 구하기4](https://www.acmicpc.net/problem/11659)
-* [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
-* [DSLR](https://www.acmicpc.net/problem/9019)
-* [외판원 순회2](https://www.acmicpc.net/problem/10971)
-* [평범한 배낭](https://www.acmicpc.net/problem/12865) 
-* [LCS](https://www.acmicpc.net/problem/9251)
+- [1로 만들기](https://www.acmicpc.net/problem/1463)
+- [구간 합 구하기4](https://www.acmicpc.net/problem/11659)
+- [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
+- [DSLR](https://www.acmicpc.net/problem/9019)
+- [외판원 순회2](https://www.acmicpc.net/problem/10971)
+- [평범한 배낭](https://www.acmicpc.net/problem/12865)
+- [LCS](https://www.acmicpc.net/problem/9251)
 
 </p>
 </details>
@@ -87,10 +84,10 @@ HACK MD LINK : https://hackmd.io/v324C_2pT-6L5k9xkySGNQ
 <summary> Week6 </summary>
 <p>
 
-* [최단경로](https://www.acmicpc.net/problem/1753)
-* [트리 순회](https://www.acmicpc.net/problem/1991)
-* [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)
-  
+- [최단경로](https://www.acmicpc.net/problem/1753)
+- [트리 순회](https://www.acmicpc.net/problem/1991)
+- [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)
+
 </p>
 </details>
 
@@ -98,12 +95,12 @@ HACK MD LINK : https://hackmd.io/v324C_2pT-6L5k9xkySGNQ
 <summary> Week7 </summary>
 <p>
 
-* [연결 요소의 개수](https://www.acmicpc.net/problem/11724)
-* [섬의 개수](https://www.acmicpc.net/problem/4963)
-* [스타트링크](https://www.acmicpc.net/problem/5014)
-* [안전 영역](https://www.acmicpc.net/problem/2468)
-* [불](https://www.acmicpc.net/problem/5427)
-  
+- [연결 요소의 개수](https://www.acmicpc.net/problem/11724)
+- [섬의 개수](https://www.acmicpc.net/problem/4963)
+- [스타트링크](https://www.acmicpc.net/problem/5014)
+- [안전 영역](https://www.acmicpc.net/problem/2468)
+- [불](https://www.acmicpc.net/problem/5427)
+
 </p>
 </details>
 
@@ -128,13 +125,23 @@ HACK MD LINK : https://hackmd.io/v324C_2pT-6L5k9xkySGNQ
 </p>
 </details>
 
-
 <details>
 <summary> Week10 </summary>
 <p>
   
 * [암호 만들기](https://www.acmicpc.net/problem/1759)
 * [부분 수열의 합](https://www.acmicpc.net/problem/1182)
+  
+</p>
+</details>
+
+<details>
+<summary> Week11 </summary>
+<p>
+  
+* [소풍](https://www.acmicpc.net/problem/2026)
+* [연산자 끼워넣기 (3)](https://www.acmicpc.net/problem/15659)
+* [N-Queen](https://www.acmicpc.net/problem/9663)
   
 </p>
 </details>
